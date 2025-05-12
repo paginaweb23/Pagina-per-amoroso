@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Benvenuto</title>
+  <style>
+    body {
+      background-color: #f9f9f9;
+      text-align: center;
+      font-family: Arial;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Benvenuto nella mia pagina web!</h1>
+  <p>Questa pagina è stata pubblicata gratuitamente con GitHub Pages.</p>
+</body>
+</html>
